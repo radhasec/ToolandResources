@@ -1,3 +1,5 @@
+# 100 Hacking Tools and Resources
+
 As we recently surpassed $100 million dollars in bounties, we want to continue the celebration with this list of 100 tools and resources for hackers! These range from beginner to expert. Most are free but some cost money. Check them out to add to your own hacking toolkit! We’ll add these to our GitHub on Hacker101/\_resources/ so feel free to continue adding even more tools and resources! 
 
 Burp Suite
